@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "deny": ["Read(~/Documents/work-data/**)", "Edit(~/Documents/work-data/**)"]
+  }
+}

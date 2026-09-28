@@ -1,0 +1,8 @@
+# Never commit real data or generated reports
+reports/
+*.xlsx
+*.csv
+!sample-customers.xlsx
+~$*
+.DS_Store
+__pycache__/
